@@ -443,11 +443,12 @@
     "DEVICE": "PLK110",
     "PRODUCT": "PLK110"
   },
-  "flar2.devcheck": {
-    "MANUFACTURER": "VIVO",
-    "BRAND": "VIVO",
-    "MODEL": "V2505A",
-    "DEVICE": "V2505A",
-    "PRODUCT": "V2505A"
+  "com.kurogame.wutheringwaves.global": {
+    "BRAND": "nubia",
+    "DEVICE": "RedMagic 10 Pro",
+    "MANUFACTURER": "ZTE",
+    "MODEL": "NX789J",
+    "FINGERPRINT": "nubia/NX789J-UN/NX789J:15/AQ3A.240812.002/20241212.194919:user/release-keys",
+    "PRODUCT": "NX789J"
   }
 }
