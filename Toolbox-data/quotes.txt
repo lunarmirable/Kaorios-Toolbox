@@ -1,2 +1,4 @@
 Keybox OK
-Strong: ✅
+BASIC:  ✅
+DEVICE: ✅
+STRONG: ✅
